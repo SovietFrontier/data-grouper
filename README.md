@@ -1,4 +1,4 @@
-# grouper
+# data-grouper
 
 This class allows you to group data sets together for ease of use, functionality and data manipulation.
 
@@ -16,10 +16,8 @@ import * as Map from 'core-js/es6/map';
 
 ### Installing
 
-npm installation instructions incoming
-
 ```
-npm install grouper
+npm i data-grouper
 ```
 
 ## How to Use
